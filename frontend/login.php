@@ -2,8 +2,6 @@
 
 // REPORTE DE ERRORES ACTIVADO
 // PARA QUE NO TIRE SOLO ERROR 500
-error_reporting(E_ALL);
-ini_set('display_errors', 'On');
 
 
 $email=$_POST["mail"];
